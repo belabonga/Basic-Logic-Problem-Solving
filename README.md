@@ -1,4 +1,4 @@
-# Basic Logic - Problem Solving
+# Javascript Basic Logic - Problem Solving
 
 # Problem Solving
 ## Learning Competencies
