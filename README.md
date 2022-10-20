@@ -1,4 +1,4 @@
-# hcktv-P1-W1D1-ProblemSolving
+# Basic Logic - Problem Solving
 
 # Problem Solving
 ## Learning Competencies
